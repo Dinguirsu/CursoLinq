@@ -1,0 +1,15 @@
+C:\Proyecto\Curso-linq\bin\Debug\net7.0\Curso-linq.exe
+C:\Proyecto\Curso-linq\bin\Debug\net7.0\Curso-linq.deps.json
+C:\Proyecto\Curso-linq\bin\Debug\net7.0\Curso-linq.runtimeconfig.json
+C:\Proyecto\Curso-linq\bin\Debug\net7.0\Curso-linq.dll
+C:\Proyecto\Curso-linq\bin\Debug\net7.0\Curso-linq.pdb
+C:\Proyecto\Curso-linq\obj\Debug\net7.0\Curso-linq.csproj.AssemblyReference.cache
+C:\Proyecto\Curso-linq\obj\Debug\net7.0\Curso-linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\Curso-linq\obj\Debug\net7.0\Curso-linq.AssemblyInfoInputs.cache
+C:\Proyecto\Curso-linq\obj\Debug\net7.0\Curso-linq.AssemblyInfo.cs
+C:\Proyecto\Curso-linq\obj\Debug\net7.0\Curso-linq.csproj.CoreCompileInputs.cache
+C:\Proyecto\Curso-linq\obj\Debug\net7.0\Curso-linq.dll
+C:\Proyecto\Curso-linq\obj\Debug\net7.0\refint\Curso-linq.dll
+C:\Proyecto\Curso-linq\obj\Debug\net7.0\Curso-linq.pdb
+C:\Proyecto\Curso-linq\obj\Debug\net7.0\Curso-linq.genruntimeconfig.cache
+C:\Proyecto\Curso-linq\obj\Debug\net7.0\ref\Curso-linq.dll
